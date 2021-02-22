@@ -1,3 +1,3 @@
 # github-experiments
 
-[link to issues](../../issues/)
+[link to issues](/../../issues/)
