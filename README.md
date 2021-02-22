@@ -1,1 +1,3 @@
 # github-experiments
+
+[other](../../other)
