@@ -17,4 +17,5 @@ jobs:
       - uses: BSFishy/pip-action@v1
         with:
           requirements: ./.github/workflows/requirements.txt
-      - run: python ./.github/workflows/build.py
+      - run: python ./build.py
+        working-directory: ./.github/workflows
